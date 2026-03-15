@@ -55,7 +55,7 @@ $ python3 -m unittest tests/test_models/test_city.py
 
 ```
 
-
-# Author
-
-## [Winebald Banituze](https://github.com/banituze)
+## Author
+```
+Winebald Banituze 
+```
