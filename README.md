@@ -37,7 +37,6 @@ EOF  all  create  delete  destroy  exit  help  q  quit  show  update
 (hbnb) 
 (hbnb) 
 (hbnb) quit
-
 ```
 
 ## How to use the interpreter
